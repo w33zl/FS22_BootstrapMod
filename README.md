@@ -5,11 +5,12 @@ This is a "mod bootstrap"/blueprint/base template for Farming Simulator 22 (FS19
 ## Instructions
 
 ### Step 1
-1. Extract the contents of the archive
-2. Copy the folder `FS22_BootstrapMod` to your mods folder
-3. Rename the folder to your desired mod name accordingly to Giant's guidelines, e.g. `FS22_MyModName`
-4. Follow the steps in the CHECKLIST.md file 
-5. Have fun!
+1. Download the [latest version](https://github.com/w33zl/FS22_BootstrapMod/releases/latest) from GitHub
+2. Extract the contents of the archive
+3. Copy the folder `FS22_BootstrapMod` to your mods folder
+4. Rename the folder to your desired mod name accordingly to Giant's guidelines, e.g. `FS22_MyModName`
+5. Follow the steps in the CHECKLIST.md file 
+6. Have fun!
 
 ### Step 2
 * A) If your mod contains script - rename all references to the variable `YourModNameHere` in the LUA file and rename the LUA file itself (`YOURMOD_RENAME_THIS_FILE.lua`)
